@@ -1,7 +1,5 @@
 # assignment-gravity-new
 
-# assignment-gravity
-
 Repository Structure:
 The repository is organized into the following main folder:
 Terraform: Contains Terraform configuration files to set up the required infrastructure, including vpc.
